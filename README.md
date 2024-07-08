@@ -55,7 +55,7 @@ Run the command:
 ```sh
 docker-compose up -d --build
 ```
-If it was from a virtual environment like AWS, you can simply create a subdomain name at Afraid DNS and then link your backend and frontend using the proxy manager already existing in the dockerfile.
+If it was from a virtual environment like AWS, you can simply create a subdomain name at Afraid DNS and then link your backend and frontend using the proxy manager already existing in the docker-compose.yml file.
 
 ## Configuration
 
